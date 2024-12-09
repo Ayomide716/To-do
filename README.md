@@ -52,7 +52,7 @@ How to Use
 
 ---
 
-Usage Instructions
+**Usage Instructions**
 
 1. Adding Tasks:
 
@@ -76,7 +76,7 @@ Click the delete icon to remove a task from the list.
 
 ---
 
-Preview
+**Preview""
 
 Include a screenshot or demo of your app here:
 
@@ -85,7 +85,7 @@ Include a screenshot or demo of your app here:
 
 ---
 
-Future Improvements
+**Future Improvements**
 
 Add task categories or labels.
 
@@ -99,7 +99,7 @@ Enable drag-and-drop reordering of tasks.
 
 ---
 
-Contributing
+**Contributing**
 
 Contributions are welcome!
 If you have any ideas or improvements, feel free to submit a pull request or open an issue.
@@ -107,7 +107,7 @@ If you have any ideas or improvements, feel free to submit a pull request or ope
 
 ---
 
-License
+**License**
 
 This project is licensed under the MIT License.
 
