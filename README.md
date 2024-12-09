@@ -21,7 +21,7 @@ Data persistence using local storage (tasks are saved even after refreshing the 
 
 ---
 
-Technologies Used
+**Technologies Used**
 
 HTML: For structuring the app interface.
 
@@ -33,13 +33,13 @@ JavaScript: For dynamic functionality and interactivity.
 
 ---
 
-Getting Started
+**Getting Started**
 
 How to Use
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/todo-list-app.git
+--git clone https://github.com/yourusername/todo-list-app.git--
 
 
 2. Open the index.html file in your browser.
