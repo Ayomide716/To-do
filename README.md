@@ -37,16 +37,18 @@ JavaScript: For dynamic functionality and interactivity.
 
 How to Use
 
-1. Clone this repository to your local machine:
-
 ```sh
-git clone https://github.com/yourusername/todo-list-app.git```
+# 1. Clone this repository to your local machine:
 
 
-2. Open the index.html file in your browser.
+git clone https://github.com/yourusername/todo-list-app.git
 
 
-3. Start adding tasks to your to-do list!
+# 2. Open the index.html file in your browser.
+
+
+# 3. Start adding tasks to your to-do list!
+```
 
 
 
