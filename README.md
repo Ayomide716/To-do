@@ -76,7 +76,7 @@ Click the delete icon to remove a task from the list.
 
 ---
 
-**Preview""
+**Preview**
 
 Include a screenshot or demo of your app here:
 
