@@ -5,7 +5,7 @@ A simple and user-friendly To-Do List application built using HTML, CSS, and Jav
 
 ---
 
-Features
+**Features**
 
 Add tasks to the list.
 
