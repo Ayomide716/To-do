@@ -39,7 +39,7 @@ How to Use
 
 1. Clone this repository to your local machine:
 
-'''git clone https://github.com/yourusername/todo-list-app.git'''
+```git clone https://github.com/yourusername/todo-list-app.git```
 
 
 2. Open the index.html file in your browser.
