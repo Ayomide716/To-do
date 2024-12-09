@@ -1,4 +1,4 @@
-##To-Do List App
+## To-Do List App
 
 A simple and user-friendly To-Do List application built using HTML, CSS, and JavaScript. This app helps users organize their tasks, manage their daily activities, and stay productive.
 
