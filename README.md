@@ -41,7 +41,7 @@ How to Use
 # 1. Clone this repository to your local machine:
 
 
-git clone https://github.com/yourusername/To-do.git
+git clone https://github.com/Ayomide716/To-do.git
 
 
 # 2. Open the index.html file in your browser.
